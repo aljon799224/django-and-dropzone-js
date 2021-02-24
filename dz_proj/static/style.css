@@ -1,0 +1,13 @@
+body {
+  background-color: #70a1ff;
+}
+
+.dz {
+  border: dashed !important;
+  border-color: black !important;
+  border-radius: 10px !important;
+}
+
+.dz:hover {
+  background-color: #7bed9f !important;
+}
